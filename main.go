@@ -1,14 +1,52 @@
 package main
 
 import (
+	"encoding/json"
+	"io"
 	"log"
 	"net/http"
+	"os"
+	"strings"
 )
 
+type Cities struct {
+	Cities []City `json:"cities"`
+}
+
 type City struct {
-	name string
-	lat  float64
-	lng  float64
+	Name string  `json:"city"`
+	Lat  float64 `json:"lat"`
+	Lng  float64 `json:"lng"`
+}
+
+func resolveCity(city string) ([]byte, error) {
+	jsonFile, err := os.Open("cities.json")
+
+	defer jsonFile.Close()
+
+	byteValue, err := io.ReadAll(jsonFile)
+	if err != nil {
+		return nil, err
+	}
+
+	var cities Cities
+
+	err = json.Unmarshal(byteValue, &cities)
+	if err != nil {
+		return nil, err
+	}
+
+	for i := 0; i < len(cities.Cities); i++ {
+		if strings.ToLower(cities.Cities[i].Name) == city {
+			result, err := json.Marshal(cities.Cities[i])
+			if err != nil {
+				return nil, err
+			}
+			return result, nil
+		}
+	}
+
+	return nil, nil
 }
 
 func home(w http.ResponseWriter, r *http.Request) {
@@ -21,11 +59,16 @@ func home(w http.ResponseWriter, r *http.Request) {
 
 	city := r.URL.Query().Get("city")
 
-	if city == "paris" {
-		var parisJson = []byte(`{"name": "Paris","lat": 48.8566, "lng":  2.3522 }`)
+	cityJson, err := resolveCity(strings.ToLower(city))
+
+	if err == nil && cityJson != nil {
 		w.Header().Set("Content-Type", "application/json")
-		w.Write(parisJson)
+		w.Write(cityJson)
+	} else {
+		http.Error(w, "City Not Found", http.StatusNotFound)
+		return
 	}
+
 }
 
 func main() {
