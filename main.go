@@ -2,11 +2,20 @@ package main
 
 import (
 	"encoding/json"
-	"io"
+	"fmt"
 	"log"
 	"net/http"
 	"os"
+	"path/filepath"
 	"strings"
+)
+
+const (
+	Port = ":4000"
+)
+
+var (
+	citiesDir = "cities"
 )
 
 type Cities struct {
@@ -19,63 +28,63 @@ type City struct {
 	Lng  float64 `json:"lng"`
 }
 
-func resolveCity(city string) ([]byte, error) {
-	jsonFile, err := os.Open("cities.json")
+func resolveCity(city string) (*City, error) {
+	rootPath, _ := os.Getwd()
 
-	defer jsonFile.Close()
+	cityFilePath := filepath.Join(rootPath, citiesDir, fmt.Sprintf("%s.json", strings.ToLower(city[0:1])))
 
-	byteValue, err := io.ReadAll(jsonFile)
+	jsonFile, err := os.Open(cityFilePath)
 	if err != nil {
 		return nil, err
 	}
+	defer jsonFile.Close()
 
 	var cities Cities
-
-	err = json.Unmarshal(byteValue, &cities)
+	decoder := json.NewDecoder(jsonFile)
+	err = decoder.Decode(&cities)
 	if err != nil {
 		return nil, err
 	}
 
 	for i := 0; i < len(cities.Cities); i++ {
-		if strings.ToLower(cities.Cities[i].Name) == city {
-			result, err := json.Marshal(cities.Cities[i])
-			if err != nil {
-				return nil, err
-			}
-			return result, nil
+		if strings.EqualFold(cities.Cities[i].Name, city) {
+			return &cities.Cities[i], nil
 		}
 	}
 
-	return nil, nil
+	return nil, fmt.Errorf("City not found")
 }
 
-func home(w http.ResponseWriter, r *http.Request) {
+func geocode(w http.ResponseWriter, r *http.Request) {
 
-	if r.Method != "GET" {
+	if r.Method != http.MethodGet {
 		w.Header().Set("Allow", http.MethodGet)
 		http.Error(w, "Mehod Not Allowed", http.StatusMethodNotAllowed)
 		return
 	}
 
 	city := r.URL.Query().Get("city")
-
-	cityJson, err := resolveCity(strings.ToLower(city))
-
-	if err == nil && cityJson != nil {
-		w.Header().Set("Content-Type", "application/json")
-		w.Write(cityJson)
-	} else {
+	if city == "" {
 		http.Error(w, "City Not Found", http.StatusNotFound)
 		return
 	}
+
+	cityData, err := resolveCity(city)
+	if err != nil {
+		http.Error(w, err.Error(), http.StatusNotFound)
+		return
+	}
+
+	w.Header().Set("Content-Type", "application/json")
+	json.NewEncoder(w).Encode(cityData)
 
 }
 
 func main() {
 	mux := http.NewServeMux()
-	mux.HandleFunc("/", home)
+	mux.HandleFunc("/geocode/", geocode)
 
-	log.Print("Server running on :4000")
-	err := http.ListenAndServe(":4000", mux)
+	log.Print("Server running on", Port)
+	err := http.ListenAndServe(Port, mux)
 	log.Fatal(err)
 }

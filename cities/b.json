@@ -1,0 +1,14 @@
+{
+  "cities": [
+    {
+      "city": "Berlin",
+      "lat": 52.52,
+      "lng": 13.405
+    },
+    {
+      "city": "Barcelona",
+      "lat": 41.3851,
+      "lng": 2.1734
+    }
+  ]
+}

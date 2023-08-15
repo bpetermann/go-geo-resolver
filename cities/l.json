@@ -1,0 +1,14 @@
+{
+  "cities": [
+    {
+      "city": "London",
+      "lat": 51.5074,
+      "lng": -0.1278
+    },
+    {
+      "city": "Los Angeles",
+      "lat": 34.0522,
+      "lng": -118.2437
+    }
+  ]
+}
