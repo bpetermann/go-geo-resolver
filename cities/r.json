@@ -1,0 +1,99 @@
+{
+  "cities": [
+    {
+      "city": "Rapperswil-Jona",
+      "lat": 47.2167,
+      "lng": 8.8167
+    },
+    {
+      "city": "Regensdorf",
+      "lat": 47.4333,
+      "lng": 8.4667
+    },
+    {
+      "city": "Reinach",
+      "lat": 47.4833,
+      "lng": 7.5833
+    },
+    {
+      "city": "Renens",
+      "lat": 46.5333,
+      "lng": 6.5833
+    },
+    {
+      "city": "Richterswil",
+      "lat": 47.2167,
+      "lng": 8.7
+    },
+    {
+      "city": "Riehen",
+      "lat": 47.5833,
+      "lng": 7.6333
+    },
+    {
+      "city": "Rorschach",
+      "lat": 47.4667,
+      "lng": 9.5
+    },
+    {
+      "city": "Romanshorn",
+      "lat": 47.5635,
+      "lng": 9.3564
+    },
+    {
+      "city": "Rüti",
+      "lat": 47.2667,
+      "lng": 8.85
+    },
+    {
+      "city": "Rolle",
+      "lat": 46.45,
+      "lng": 6.3333
+    },
+    {
+      "city": "Rüschlikon",
+      "lat": 47.2833,
+      "lng": 8.55
+    },
+    {
+      "city": "Rheineck",
+      "lat": 47.4667,
+      "lng": 9.5833
+    },
+    {
+      "city": "Rickenbach bei Wil",
+      "lat": 47.4497,
+      "lng": 9.0497
+    },
+    {
+      "city": "Regensburg",
+      "lat": 49.0167,
+      "lng": 12.0833
+    },
+    {
+      "city": "Reutlingen",
+      "lat": 48.4833,
+      "lng": 9.2167
+    },
+    {
+      "city": "Remscheid",
+      "lat": 51.1833,
+      "lng": 7.2
+    },
+    {
+      "city": "Recklinghausen",
+      "lat": 51.585,
+      "lng": 7.1619
+    },
+    {
+      "city": "Rosenheim",
+      "lat": 47.85,
+      "lng": 12.1333
+    },
+    {
+      "city": "Rostock",
+      "lat": 54.0833,
+      "lng": 12.1333
+    }
+  ]
+}

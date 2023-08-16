@@ -1,0 +1,94 @@
+{
+  "cities": [
+    {
+      "city": "Eisenstadt",
+      "lat": 47.85,
+      "lng": 16.5167
+    },
+    {
+      "city": "Enns",
+      "lat": 48.2167,
+      "lng": 14.475
+    },
+    {
+      "city": "Ecublens",
+      "lat": 46.5276,
+      "lng": 6.5605
+    },
+    {
+      "city": "Emmen",
+      "lat": 47.0833,
+      "lng": 8.3
+    },
+    {
+      "city": "Epalinges",
+      "lat": 46.55,
+      "lng": 6.6667
+    },
+    {
+      "city": "Eilendorf",
+      "lat": 50.7794,
+      "lng": 6.1625
+    },
+    {
+      "city": "Eichenau",
+      "lat": 48.1667,
+      "lng": 11.3167
+    },
+    {
+      "city": "Eichwalde",
+      "lat": 52.373,
+      "lng": 13.6213
+    },
+    {
+      "city": "Eppelheim",
+      "lat": 49.4,
+      "lng": 8.6333
+    },
+    {
+      "city": "Erlangen",
+      "lat": 49.5833,
+      "lng": 11.0167
+    },
+    {
+      "city": "Eschborn",
+      "lat": 50.1436,
+      "lng": 8.57
+    },
+    {
+      "city": "Erlenbach",
+      "lat": 47.3,
+      "lng": 8.5833
+    },
+    {
+      "city": "Eichenau",
+      "lat": 48.1667,
+      "lng": 11.3167
+    },
+    {
+      "city": "Ennetbaden",
+      "lat": 47.4817,
+      "lng": 8.3167
+    },
+    {
+      "city": "Essen",
+      "lat": 51.4508,
+      "lng": 7.0131
+    },
+    {
+      "city": "Erfurt",
+      "lat": 50.9833,
+      "lng": 11.0333
+    },
+    {
+      "city": "Esslingen",
+      "lat": 48.7333,
+      "lng": 9.3167
+    },
+    {
+      "city": "Elmshorn",
+      "lat": 53.7519,
+      "lng": 9.6511
+    }
+  ]
+}

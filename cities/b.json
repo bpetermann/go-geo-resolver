@@ -1,14 +1,174 @@
 {
   "cities": [
     {
+      "city": "Baden",
+      "lat": 48.0075,
+      "lng": 16.2344
+    },
+    {
+      "city": "Bad Vöslau",
+      "lat": 47.9669,
+      "lng": 16.2144
+    },
+    {
+      "city": "Bludenz",
+      "lat": 47.1533,
+      "lng": 9.8219
+    },
+    {
+      "city": "Bruck an der Leitha",
+      "lat": 48.0255,
+      "lng": 16.779
+    },
+    {
+      "city": "Bruck an der Mur",
+      "lat": 47.4106,
+      "lng": 15.2686
+    },
+    {
+      "city": "Brunn am Gebirge",
+      "lat": 48.1069,
+      "lng": 16.2842
+    },
+    {
+      "city": "Basel",
+      "lat": 47.5547,
+      "lng": 7.5906
+    },
+    {
+      "city": "Bern",
+      "lat": 46.9481,
+      "lng": 7.4475
+    },
+    {
+      "city": "Brixlegg",
+      "lat": 47.4292,
+      "lng": 11.8775
+    },
+    {
+      "city": "Biedermannsdorf",
+      "lat": 48.0834,
+      "lng": 16.3458
+    },
+    {
+      "city": "Bludesch",
+      "lat": 47.1996,
+      "lng": 9.7471
+    },
+    {
+      "city": "Bad Schallerbach",
+      "lat": 48.2289,
+      "lng": 13.9253
+    },
+    {
+      "city": "Bassersdorf",
+      "lat": 47.4431,
+      "lng": 8.6283
+    },
+    {
+      "city": "Bellinzona",
+      "lat": 46.1954,
+      "lng": 9.0297
+    },
+    {
+      "city": "Biel/Bienne",
+      "lat": 47.1333,
+      "lng": 7.25
+    },
+    {
+      "city": "Binningen",
+      "lat": 47.5333,
+      "lng": 7.5667
+    },
+    {
+      "city": "Brugg",
+      "lat": 47.4864,
+      "lng": 8.2067
+    },
+    {
+      "city": "Buchs",
+      "lat": 47.3889,
+      "lng": 8.0747
+    },
+    {
+      "city": "Bülach",
+      "lat": 47.5167,
+      "lng": 8.5333
+    },
+    {
+      "city": "Bad Soden am Taunus",
+      "lat": 50.1333,
+      "lng": 8.5
+    },
+    {
+      "city": "Balerna",
+      "lat": 45.85,
+      "lng": 9.0
+    },
+    {
+      "city": "Belmont-sur-Lausanne",
+      "lat": 46.5265,
+      "lng": 6.6876
+    },
+    {
       "city": "Berlin",
       "lat": 52.52,
       "lng": 13.405
     },
     {
-      "city": "Barcelona",
-      "lat": 41.3851,
-      "lng": 2.1734
+      "city": "Bergisch Gladbach",
+      "lat": 50.9918,
+      "lng": 7.1303
+    },
+    {
+      "city": "Bielefeld",
+      "lat": 52.0211,
+      "lng": 8.5347
+    },
+    {
+      "city": "Bochum",
+      "lat": 51.4819,
+      "lng": 7.2158
+    },
+    {
+      "city": "Bonn",
+      "lat": 50.7333,
+      "lng": 7.1
+    },
+    {
+      "city": "Bottmingen",
+      "lat": 47.5236,
+      "lng": 7.5697
+    },
+    {
+      "city": "Bottrop",
+      "lat": 51.5247,
+      "lng": 6.9228
+    },
+    {
+      "city": "Braunschweig",
+      "lat": 52.2667,
+      "lng": 10.5167
+    },
+    {
+      "city": "Bremen",
+      "lat": 53.0833,
+      "lng": 8.8
+    },
+    {
+      "city": "Bremerhaven",
+      "lat": 53.55,
+      "lng": 8.5833
+    },
+    {
+      "city": "Buchrain",
+      "lat": 47.0953,
+      "lng": 8.3475
+    },
+    {
+      "city": "Buckenhof",
+      "lat": 49.5914,
+      "lng": 11.0522
     }
   ]
 }

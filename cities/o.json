@@ -1,0 +1,124 @@
+{
+  "cities": [
+    {
+      "city": "Oberndorf bei Salzburg",
+      "lat": 47.9417,
+      "lng": 12.9417
+    },
+    {
+      "city": "Oberwaltersdorf",
+      "lat": 47.9769,
+      "lng": 16.3253
+    },
+    {
+      "city": "Ottensheim",
+      "lat": 48.3333,
+      "lng": 14.1769
+    },
+    {
+      "city": "Oberalm",
+      "lat": 47.7,
+      "lng": 13.1
+    },
+    {
+      "city": "Oberhaid",
+      "lat": 48.1983,
+      "lng": 15.8622
+    },
+    {
+      "city": "Olten",
+      "lat": 47.35,
+      "lng": 7.9
+    },
+    {
+      "city": "Onex",
+      "lat": 46.1833,
+      "lng": 6.1
+    },
+    {
+      "city": "Opfikon",
+      "lat": 47.4333,
+      "lng": 8.5667
+    },
+    {
+      "city": "Ostermundigen",
+      "lat": 46.955,
+      "lng": 7.4894
+    },
+    {
+      "city": "Oberentfelden",
+      "lat": 47.3597,
+      "lng": 8.0486
+    },
+    {
+      "city": "Oberengstringen",
+      "lat": 47.4103,
+      "lng": 8.4633
+    },
+    {
+      "city": "Offenbach",
+      "lat": 50.1006,
+      "lng": 8.7665
+    },
+    {
+      "city": "Oberhausen",
+      "lat": 51.4667,
+      "lng": 6.85
+    },
+    {
+      "city": "Offenbach",
+      "lat": 50.1002,
+      "lng": 8.7666
+    },
+    {
+      "city": "Oldenburg",
+      "lat": 53.1447,
+      "lng": 8.221
+    },
+    {
+      "city": "Olten",
+      "lat": 47.3494,
+      "lng": 7.9027
+    },
+    {
+      "city": "Opfikon",
+      "lat": 47.4322,
+      "lng": 8.581
+    },
+    {
+      "city": "Orbe",
+      "lat": 46.7136,
+      "lng": 6.5344
+    },
+    {
+      "city": "Ostermundigen",
+      "lat": 46.9494,
+      "lng": 7.4769
+    },
+    {
+      "city": "Osterode am Harz",
+      "lat": 51.727,
+      "lng": 10.2473
+    },
+    {
+      "city": "Oberrieden",
+      "lat": 47.2778,
+      "lng": 8.5781
+    },
+    {
+      "city": "Osnabrück",
+      "lat": 52.2833,
+      "lng": 8.05
+    },
+    {
+      "city": "Ostfildern",
+      "lat": 48.7333,
+      "lng": 9.25
+    },
+    {
+      "city": "Ottobrunn",
+      "lat": 48.0667,
+      "lng": 11.6667
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "cities": [
+    {
+      "city": "Timelkam",
+      "lat": 48.0014,
+      "lng": 13.6125
+    },
+    {
+      "city": "Thalheim bei Wels",
+      "lat": 48.1514,
+      "lng": 14.0383
+    },
+    {
+      "city": "Theresienfeld",
+      "lat": 47.85,
+      "lng": 16.2167
+    },
+    {
+      "city": "Thüringen",
+      "lat": 47.2,
+      "lng": 9.7667
+    },
+    {
+      "city": "Thalwil",
+      "lat": 47.2833,
+      "lng": 8.5667
+    },
+    {
+      "city": "Therwil",
+      "lat": 47.4997,
+      "lng": 7.55
+    },
+    {
+      "city": "Thônex",
+      "lat": 46.1833,
+      "lng": 6.1833
+    },
+    {
+      "city": "Thun",
+      "lat": 46.7667,
+      "lng": 7.6333
+    },
+    {
+      "city": "Turgi",
+      "lat": 47.4946,
+      "lng": 8.2527
+    },
+    {
+      "city": "Tolochenaz",
+      "lat": 46.5,
+      "lng": 6.4667
+    },
+    {
+      "city": "Trier",
+      "lat": 49.7567,
+      "lng": 6.6414
+    }
+  ]
+}

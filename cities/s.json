@@ -1,9 +1,154 @@
 {
   "cities": [
     {
-      "city": "Shanghai",
-      "lat": 31.2304,
-      "lng": 121.4737
+      "city": "Salzburg",
+      "lat": 47.8,
+      "lng": 13.045
+    },
+    {
+      "city": "Sankt Pölten",
+      "lat": 48.2,
+      "lng": 15.6167
+    },
+    {
+      "city": "Steyr",
+      "lat": 48.0333,
+      "lng": 14.4167
+    },
+    {
+      "city": "Sankt Gallen",
+      "lat": 47.4242,
+      "lng": 9.3708
+    },
+    {
+      "city": "Sarnen",
+      "lat": 46.8961,
+      "lng": 8.2456
+    },
+    {
+      "city": "Schaffhausen",
+      "lat": 47.7,
+      "lng": 8.6333
+    },
+    {
+      "city": "Schlieren",
+      "lat": 47.4,
+      "lng": 8.45
+    },
+    {
+      "city": "Schwyz",
+      "lat": 47.0167,
+      "lng": 8.65
+    },
+    {
+      "city": "Schwyz",
+      "lat": 47.0167,
+      "lng": 8.65
+    },
+    {
+      "city": "Sion",
+      "lat": 46.2333,
+      "lng": 7.3667
+    },
+    {
+      "city": "Solothurn",
+      "lat": 47.2167,
+      "lng": 7.5333
+    },
+    {
+      "city": "Spreitenbach",
+      "lat": 47.4167,
+      "lng": 8.3667
+    },
+    {
+      "city": "Stäfa",
+      "lat": 47.24,
+      "lng": 8.73
+    },
+    {
+      "city": "Stans",
+      "lat": 46.95,
+      "lng": 8.35
+    },
+    {
+      "city": "Steffisburg",
+      "lat": 46.7667,
+      "lng": 7.6333
+    },
+    {
+      "city": "Sursee",
+      "lat": 47.1667,
+      "lng": 8.1167
+    },
+    {
+      "city": "Siegen",
+      "lat": 50.8833,
+      "lng": 8.0167
+    },
+    {
+      "city": "Schwerin",
+      "lat": 53.6333,
+      "lng": 11.4167
+    },
+    {
+      "city": "Schwerzenbach",
+      "lat": 47.3818,
+      "lng": 8.6559
+    },
+    {
+      "city": "Steinbach am Taunus",
+      "lat": 50.1667,
+      "lng": 8.5667
+    },
+    {
+      "city": "Saint-Sulpice",
+      "lat": 46.5167,
+      "lng": 6.5667
+    },
+    {
+      "city": "Schönenwerd",
+      "lat": 47.3719,
+      "lng": 8.0028
+    },
+    {
+      "city": "Savosa",
+      "lat": 46.0167,
+      "lng": 8.95
+    },
+    {
+      "city": "Sorengo",
+      "lat": 46.0,
+      "lng": 8.9333
+    },
+    {
+      "city": "Stuttgart",
+      "lat": 48.7775,
+      "lng": 9.18
+    },
+    {
+      "city": "Saarbrücken",
+      "lat": 49.2333,
+      "lng": 7.0
+    },
+    {
+      "city": "Salzgitter",
+      "lat": 52.15,
+      "lng": 10.3333
+    },
+    {
+      "city": "Schenefeld",
+      "lat": 53.6028,
+      "lng": 9.8233
+    },
+    {
+      "city": "Solingen",
+      "lat": 51.1667,
+      "lng": 7.0833
+    },
+    {
+      "city": "Siegburg",
+      "lat": 50.8014,
+      "lng": 7.2044
     }
   ]
 }

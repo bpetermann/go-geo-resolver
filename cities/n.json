@@ -1,0 +1,84 @@
+{
+  "cities": [
+    {
+      "city": "Neuchâtel",
+      "lat": 47.0,
+      "lng": 6.9333
+    },
+    {
+      "city": "Neuhausen am Rheinfall",
+      "lat": 47.6833,
+      "lng": 8.6167
+    },
+    {
+      "city": "Nyon",
+      "lat": 46.3833,
+      "lng": 6.2333
+    },
+    {
+      "city": "Neuenhof",
+      "lat": 47.4469,
+      "lng": 8.3292
+    },
+    {
+      "city": "Nidau",
+      "lat": 47.1333,
+      "lng": 7.25
+    },
+    {
+      "city": "Naples",
+      "lat": 40.8522,
+      "lng": 14.2681
+    },
+    {
+      "city": "Neuchâtel",
+      "lat": 46.9931,
+      "lng": 6.9317
+    },
+    {
+      "city": "Neuss",
+      "lat": 51.2044,
+      "lng": 6.6878
+    },
+    {
+      "city": "Nidau",
+      "lat": 47.1254,
+      "lng": 7.2559
+    },
+    {
+      "city": "Nuremberg",
+      "lat": 49.4521,
+      "lng": 11.0767
+    },
+    {
+      "city": "Niederlenz",
+      "lat": 47.4025,
+      "lng": 8.1764
+    },
+    {
+      "city": "Niederglatt",
+      "lat": 47.4922,
+      "lng": 8.5033
+    },
+    {
+      "city": "Neulußheim",
+      "lat": 49.2933,
+      "lng": 8.5219
+    },
+    {
+      "city": "Neubiberg",
+      "lat": 48.0833,
+      "lng": 11.6833
+    },
+    {
+      "city": "Niederrohrdorf",
+      "lat": 47.4235,
+      "lng": 8.3049
+    },
+    {
+      "city": "Nuremberg",
+      "lat": 49.4539,
+      "lng": 11.0775
+    }
+  ]
+}

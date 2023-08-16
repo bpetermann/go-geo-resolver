@@ -1,0 +1,149 @@
+{
+  "cities": [
+    {
+      "city": "Wallisellen",
+      "lat": 47.415,
+      "lng": 8.5967
+    },
+    {
+      "city": "Walsrode",
+      "lat": 52.8522,
+      "lng": 9.5967
+    },
+    {
+      "city": "Wentorf bei Hamburg",
+      "lat": 53.4931,
+      "lng": 10.2533
+    },
+    {
+      "city": "Widnau",
+      "lat": 47.3997,
+      "lng": 9.6333
+    },
+    {
+      "city": "Wies",
+      "lat": 46.7203,
+      "lng": 15.2719
+    },
+    {
+      "city": "Wiesbaden",
+      "lat": 50.0825,
+      "lng": 8.24
+    },
+    {
+      "city": "Wiener Neustadt",
+      "lat": 47.8167,
+      "lng": 16.25
+    },
+    {
+      "city": "Wetzikon",
+      "lat": 47.3167,
+      "lng": 8.8
+    },
+    {
+      "city": "Wettenberg",
+      "lat": 50.5833,
+      "lng": 8.6333
+    },
+    {
+      "city": "Wettingen",
+      "lat": 47.4659,
+      "lng": 8.3267
+    },
+    {
+      "city": "Weßenthurm",
+      "lat": 50.4144,
+      "lng": 7.4606
+    },
+    {
+      "city": "Weil am Rhein",
+      "lat": 47.5933,
+      "lng": 7.6
+    },
+    {
+      "city": "Weingarten",
+      "lat": 47.8092,
+      "lng": 9.6444
+    },
+    {
+      "city": "Weinheim",
+      "lat": 49.5536,
+      "lng": 8.6703
+    },
+    {
+      "city": "Weinstadt",
+      "lat": 48.8131,
+      "lng": 9.3181
+    },
+    {
+      "city": "Weißenthurm",
+      "lat": 50.4144,
+      "lng": 7.4606
+    },
+    {
+      "city": "Wernau",
+      "lat": 48.7028,
+      "lng": 9.3761
+    },
+    {
+      "city": "Wernberg-Köblitz",
+      "lat": 49.5939,
+      "lng": 12.1903
+    },
+    {
+      "city": "Werndorf",
+      "lat": 46.9211,
+      "lng": 15.4811
+    },
+    {
+      "city": "Werneck",
+      "lat": 50.0431,
+      "lng": 10.1847
+    },
+    {
+      "city": "Wertingen",
+      "lat": 48.5767,
+      "lng": 10.6208
+    },
+    {
+      "city": "Wesel",
+      "lat": 51.6547,
+      "lng": 6.6122
+    },
+    {
+      "city": "Wesseling",
+      "lat": 50.8264,
+      "lng": 6.9853
+    },
+    {
+      "city": "Westerstede",
+      "lat": 53.25,
+      "lng": 7.9167
+    },
+    {
+      "city": "Wetter (Ruhr)",
+      "lat": 51.3981,
+      "lng": 7.3642
+    },
+    {
+      "city": "Wetzlar",
+      "lat": 50.5667,
+      "lng": 8.5
+    },
+    {
+      "city": "Wettenberg",
+      "lat": 50.5833,
+      "lng": 8.6333
+    },
+    {
+      "city": "Wetter (Hessen)",
+      "lat": 51.3981,
+      "lng": 7.3642
+    },
+    {
+      "city": "Wetzlar",
+      "lat": 50.5667,
+      "lng": 8.5
+    }
+  ]
+}

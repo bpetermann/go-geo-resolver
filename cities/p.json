@@ -1,9 +1,75 @@
 {
   "cities": [
     {
-      "city": "Paris",
-      "lat": 48.8566,
-      "lng": 2.3522
+      "city": "Plan-les-Ouates",
+      "lat": 46.1667,
+      "lng": 6.1167
+    },
+    {
+      "city": "Pratteln",
+      "lat": 47.5167,
+      "lng": 7.7
+    },
+    {
+      "city": "Prilly",
+      "lat": 46.5333,
+      "lng": 6.6
+    },
+    {
+      "city": "Pully",
+      "lat": 46.5167,
+      "lng": 6.6667
+    },
+    {
+      "city": "Peseux",
+      "lat": 46.9955,
+      "lng": 6.8895
+    },
+
+    {
+      "city": "Préverenges",
+      "lat": 46.5167,
+      "lng": 6.5333
+    },
+    {
+      "city": "Paradiso",
+      "lat": 45.9833,
+      "lng": 8.95
+    },
+    {
+      "city": "Port",
+      "lat": 47.1167,
+      "lng": 7.25
+    },
+    {
+      "city": "Paudex",
+      "lat": 46.5084,
+      "lng": 6.6737
+    },
+    {
+      "city": "Potsdam",
+      "lat": 52.4,
+      "lng": 13.0667
+    },
+    {
+      "city": "Paderborn",
+      "lat": 51.7181,
+      "lng": 8.7542
+    },
+    {
+      "city": "Pforzheim",
+      "lat": 48.895,
+      "lng": 8.705
+    },
+    {
+      "city": "Puchheim",
+      "lat": 48.15,
+      "lng": 11.35
+    },
+    {
+      "city": "Pinneberg",
+      "lat": 53.6333,
+      "lng": 9.8
     }
   ]
 }

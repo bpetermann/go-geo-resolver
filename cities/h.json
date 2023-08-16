@@ -1,0 +1,94 @@
+{
+  "cities": [
+    {
+      "city": "Heimberg",
+      "lat": 46.7831,
+      "lng": 7.5997
+    },
+    {
+      "city": "Hagen",
+      "lat": 51.3667,
+      "lng": 7.4833
+    },
+    {
+      "city": "Halle",
+      "lat": 51.4828,
+      "lng": 11.9697
+    },
+    {
+      "city": "Halle-Neustadt",
+      "lat": 51.4789,
+      "lng": 11.9214
+    },
+    {
+      "city": "Hamburg",
+      "lat": 53.55,
+      "lng": 10.0
+    },
+    {
+      "city": "Hamm",
+      "lat": 51.6833,
+      "lng": 7.8167
+    },
+    {
+      "city": "Hannover",
+      "lat": 52.3667,
+      "lng": 9.7167
+    },
+    {
+      "city": "Hattersheim",
+      "lat": 50.0722,
+      "lng": 8.4864
+    },
+    {
+      "city": "Hauterive",
+      "lat": 47.0167,
+      "lng": 6.9667
+    },
+    {
+      "city": "Heidelberg",
+      "lat": 49.4167,
+      "lng": 8.7167
+    },
+    {
+      "city": "Heilbronn",
+      "lat": 49.15,
+      "lng": 9.2167
+    },
+    {
+      "city": "Herten",
+      "lat": 51.6,
+      "lng": 7.1333
+    },
+    {
+      "city": "Herne",
+      "lat": 51.55,
+      "lng": 7.2167
+    },
+    {
+      "city": "Hildesheim",
+      "lat": 52.15,
+      "lng": 9.95
+    },
+    {
+      "city": "Hilden",
+      "lat": 51.1714,
+      "lng": 6.9394
+    },
+    {
+      "city": "Hilterfingen",
+      "lat": 46.7432,
+      "lng": 7.6582
+    },
+    {
+      "city": "Horn",
+      "lat": 47.4953,
+      "lng": 9.463
+    },
+    {
+      "city": "Hunzenschwil",
+      "lat": 47.3858,
+      "lng": 8.1264
+    }
+  ]
+}
