@@ -1,34 +1,9 @@
 {
   "cities": [
     {
-      "city": "Altach",
-      "lat": 47.35,
-      "lng": 9.65
-    },
-    {
-      "city": "Amstetten",
-      "lat": 48.1167,
-      "lng": 14.8667
-    },
-    {
-      "city": "Ansfelden",
-      "lat": 48.2083,
-      "lng": 14.2889
-    },
-    {
-      "city": "Asten",
-      "lat": 48.2167,
-      "lng": 14.4167
-    },
-    {
-      "city": "Attnang-Puchheim",
-      "lat": 48.0167,
-      "lng": 13.7167
-    },
-    {
-      "city": "Axams",
-      "lat": 47.2303,
-      "lng": 11.2792
+      "city": "Aachen",
+      "lat": 50.7756,
+      "lng": 6.0836
     },
     {
       "city": "Aarau",
@@ -51,6 +26,11 @@
       "lng": 7.5942
     },
     {
+      "city": "Altbach",
+      "lat": 48.7239,
+      "lng": 9.3797
+    },
+    {
       "city": "Altdorf",
       "lat": 46.8667,
       "lng": 8.6333
@@ -61,6 +41,31 @@
       "lng": 7.5333
     },
     {
+      "city": "Altach",
+      "lat": 47.35,
+      "lng": 9.65
+    },
+    {
+      "city": "Altbach",
+      "lat": 48.7239,
+      "lng": 9.3797
+    },
+    {
+      "city": "Amstetten",
+      "lat": 48.1167,
+      "lng": 14.8667
+    },
+    {
+      "city": "Ansfelden",
+      "lat": 48.2083,
+      "lng": 14.2889
+    },
+    {
+      "city": "Appenzell",
+      "lat": 47.3333,
+      "lng": 9.4167
+    },
+    {
       "city": "Arbon",
       "lat": 47.5167,
       "lng": 9.4333
@@ -69,16 +74,6 @@
       "city": "Arlesheim",
       "lat": 47.4922,
       "lng": 7.6203
-    },
-    {
-      "city": "Altbach",
-      "lat": 48.7239,
-      "lng": 9.3797
-    },
-    {
-      "city": "Appenzell",
-      "lat": 47.3333,
-      "lng": 9.4167
     },
     {
       "city": "Asperg",
@@ -96,9 +91,14 @@
       "lng": 9.6333
     },
     {
-      "city": "Aachen",
-      "lat": 50.7756,
-      "lng": 6.0836
+      "city": "Axams",
+      "lat": 47.2303,
+      "lng": 11.2792
+    },
+    {
+      "city": "Attnang-Puchheim",
+      "lat": 48.0167,
+      "lng": 13.7167
     }
   ]
 }

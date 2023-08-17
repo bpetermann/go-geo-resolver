@@ -1,0 +1,84 @@
+{
+  "cities": [
+    {
+      "city": "Kaiserslautern",
+      "lat": 49.4447,
+      "lng": 7.7689
+    },
+    {
+      "city": "Karlsruhe",
+      "lat": 49.0092,
+      "lng": 8.404
+    },
+    {
+      "city": "Kassel",
+      "lat": 51.3158,
+      "lng": 9.4979
+    },
+    {
+      "city": "Kematen in Tirol",
+      "lat": 47.2542,
+      "lng": 11.2722
+    },
+    {
+      "city": "Kiel",
+      "lat": 54.3233,
+      "lng": 10.1394
+    },
+    {
+      "city": "Kierling",
+      "lat": 48.3083,
+      "lng": 16.2742
+    },
+    {
+      "city": "Kilchberg",
+      "lat": 47.3247,
+      "lng": 8.5492
+    },
+    {
+      "city": "Kirchbichl",
+      "lat": 47.5167,
+      "lng": 12.0667
+    },
+    {
+      "city": "Klagenfurt",
+      "lat": 46.6167,
+      "lng": 14.3
+    },
+    {
+      "city": "Koblenz",
+      "lat": 50.3597,
+      "lng": 7.5978
+    },
+    {
+      "city": "Koblach",
+      "lat": 47.3333,
+      "lng": 9.6
+    },
+    {
+      "city": "Kornwestheim",
+      "lat": 48.8598,
+      "lng": 9.1852
+    },
+    {
+      "city": "Köln",
+      "lat": 50.9375,
+      "lng": 6.9603
+    },
+    {
+      "city": "Krefeld",
+      "lat": 51.3333,
+      "lng": 6.5667
+    },
+    {
+      "city": "Kronshagen",
+      "lat": 54.3333,
+      "lng": 10.0833
+    },
+    {
+      "city": "Küsnacht",
+      "lat": 47.3167,
+      "lng": 8.5833
+    }
+  ]
+}

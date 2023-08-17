@@ -1,0 +1,174 @@
+{
+  "cities": [
+    {
+      "city": "Rapperswil-Jona",
+      "lat": 47.2167,
+      "lng": 8.8167
+    },
+    {
+      "city": "Rheineck",
+      "lat": 47.4667,
+      "lng": 9.5833
+    },
+    {
+      "city": "Rickenbach bei Wil",
+      "lat": 47.4497,
+      "lng": 9.0497
+    },
+    {
+      "city": "Riehen",
+      "lat": 47.5833,
+      "lng": 7.6333
+    },
+    {
+      "city": "Richterswil",
+      "lat": 47.2167,
+      "lng": 8.7
+    },
+    {
+      "city": "Rochester",
+      "lat": 44.0216,
+      "lng": -92.4699
+    },
+    {
+      "city": "Rorschach",
+      "lat": 47.4667,
+      "lng": 9.5
+    },
+    {
+      "city": "Rosenheim",
+      "lat": 47.85,
+      "lng": 12.1333
+    },
+    {
+      "city": "Rosmalen",
+      "lat": 51.717,
+      "lng": 5.3653
+    },
+    {
+      "city": "Rostock",
+      "lat": 54.0833,
+      "lng": 12.1333
+    },
+    {
+      "city": "Rotterdam",
+      "lat": 51.9225,
+      "lng": 4.47917
+    },
+    {
+      "city": "Roubaix",
+      "lat": 50.6942,
+      "lng": 3.1746
+    },
+    {
+      "city": "Rueil-Malmaison",
+      "lat": 48.8769,
+      "lng": 2.1866
+    },
+    {
+      "city": "Rüti",
+      "lat": 47.2667,
+      "lng": 8.85
+    },
+    {
+      "city": "Röthenbach an der Pegnitz",
+      "lat": 49.4696,
+      "lng": 11.2305
+    },
+    {
+      "city": "Rüschlikon",
+      "lat": 47.2833,
+      "lng": 8.55
+    },
+    {
+      "city": "Rudolfstetten",
+      "lat": 47.3992,
+      "lng": 8.3885
+    },
+    {
+      "city": "Rorschacherberg",
+      "lat": 47.4833,
+      "lng": 9.5
+    },
+    {
+      "city": "Rümlang",
+      "lat": 47.4478,
+      "lng": 8.5361
+    },
+    {
+      "city": "Rottweil",
+      "lat": 48.1667,
+      "lng": 8.6333
+    },
+    {
+      "city": "Recklinghausen",
+      "lat": 51.585,
+      "lng": 7.1619
+    },
+    {
+      "city": "Regensburg",
+      "lat": 49.0167,
+      "lng": 12.0833
+    },
+    {
+      "city": "Remscheid",
+      "lat": 51.1833,
+      "lng": 7.2
+    },
+    {
+      "city": "Reutlingen",
+      "lat": 48.4833,
+      "lng": 9.2167
+    },
+    {
+      "city": "Rolle",
+      "lat": 46.45,
+      "lng": 6.3333
+    },
+    {
+      "city": "Ruggell",
+      "lat": 47.2431,
+      "lng": 9.5236
+    },
+    {
+      "city": "Rüegsauschachen",
+      "lat": 47.2283,
+      "lng": 8.5886
+    },
+    {
+      "city": "Rüeggisberg",
+      "lat": 46.8223,
+      "lng": 7.4624
+    },
+    {
+      "city": "Rüderswil",
+      "lat": 46.8911,
+      "lng": 7.8005
+    },
+    {
+      "city": "Rudolfstetten",
+      "lat": 47.3992,
+      "lng": 8.3885
+    },
+    {
+      "city": "Rüti",
+      "lat": 47.2667,
+      "lng": 8.85
+    },
+    {
+      "city": "Rüti bei Büren",
+      "lat": 47.0933,
+      "lng": 7.3792
+    },
+    {
+      "city": "Rüti bei Lyssach",
+      "lat": 47.0623,
+      "lng": 7.5528
+    },
+    {
+      "city": "Rüti bei Riggisberg",
+      "lat": 46.8453,
+      "lng": 7.4614
+    }
+  ]
+}

@@ -1,11 +1,6 @@
 {
   "cities": [
     {
-      "city": "Heimberg",
-      "lat": 46.7831,
-      "lng": 7.5997
-    },
-    {
       "city": "Hagen",
       "lat": 51.3667,
       "lng": 7.4833
@@ -54,6 +49,11 @@
       "city": "Heilbronn",
       "lat": 49.15,
       "lng": 9.2167
+    },
+    {
+      "city": "Heimberg",
+      "lat": 46.7831,
+      "lng": 7.5997
     },
     {
       "city": "Herten",

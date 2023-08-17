@@ -1,0 +1,69 @@
+{
+  "cities": [
+    {
+      "city": "Paderborn",
+      "lat": 51.7181,
+      "lng": 8.7542
+    },
+    {
+      "city": "Paudex",
+      "lat": 46.5084,
+      "lng": 6.6737
+    },
+    {
+      "city": "Peseux",
+      "lat": 46.9955,
+      "lng": 6.8895
+    },
+    {
+      "city": "Pinneberg",
+      "lat": 53.6333,
+      "lng": 9.8
+    },
+    {
+      "city": "Plan-les-Ouates",
+      "lat": 46.1667,
+      "lng": 6.1167
+    },
+    {
+      "city": "Port",
+      "lat": 47.1167,
+      "lng": 7.25
+    },
+    {
+      "city": "Potsdam",
+      "lat": 52.4,
+      "lng": 13.0667
+    },
+    {
+      "city": "Pratteln",
+      "lat": 47.5167,
+      "lng": 7.7
+    },
+    {
+      "city": "Préverenges",
+      "lat": 46.5167,
+      "lng": 6.5333
+    },
+    {
+      "city": "Prilly",
+      "lat": 46.5333,
+      "lng": 6.6
+    },
+    {
+      "city": "Pully",
+      "lat": 46.5167,
+      "lng": 6.6667
+    },
+    {
+      "city": "Puchheim",
+      "lat": 48.15,
+      "lng": 11.35
+    },
+    {
+      "city": "Paradiso",
+      "lat": 45.9833,
+      "lng": 8.95
+    }
+  ]
+}

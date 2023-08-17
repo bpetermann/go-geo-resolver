@@ -1,14 +1,9 @@
 {
   "cities": [
     {
-      "city": "Deutsch-Wagram",
-      "lat": 48.2994,
-      "lng": 16.5644
-    },
-    {
-      "city": "Dornbirn",
-      "lat": 47.4167,
-      "lng": 9.75
+      "city": "Darmstadt",
+      "lat": 49.8722,
+      "lng": 8.6528
     },
     {
       "city": "Delémont",
@@ -16,24 +11,29 @@
       "lng": 7.35
     },
     {
+      "city": "Deutsch-Wagram",
+      "lat": 48.2994,
+      "lng": 16.5644
+    },
+    {
       "city": "Dietikon",
       "lat": 47.4,
       "lng": 8.4
     },
     {
-      "city": "Dübendorf",
-      "lat": 47.4167,
-      "lng": 8.6167
-    },
-    {
-      "city": "Darmstadt",
-      "lat": 49.8722,
-      "lng": 8.6528
-    },
-    {
       "city": "Dietlikon",
       "lat": 47.42,
       "lng": 8.6192
+    },
+    {
+      "city": "Dornach",
+      "lat": 47.4789,
+      "lng": 7.6181
+    },
+    {
+      "city": "Dornbirn",
+      "lat": 47.4167,
+      "lng": 9.75
     },
     {
       "city": "Dortmund",
@@ -56,9 +56,9 @@
       "lng": 6.7833
     },
     {
-      "city": "Dornach",
-      "lat": 47.4789,
-      "lng": 7.6181
+      "city": "Dübendorf",
+      "lat": 47.4167,
+      "lng": 8.6167
     }
   ]
 }

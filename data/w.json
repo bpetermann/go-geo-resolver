@@ -16,6 +16,16 @@
       "lng": 10.2533
     },
     {
+      "city": "Wentorf bei Hamburg",
+      "lat": 53.4951,
+      "lng": 10.2594
+    },
+    {
+      "city": "Wentorf bei Hamburg",
+      "lat": 53.4954,
+      "lng": 10.2536
+    },
+    {
       "city": "Widnau",
       "lat": 47.3997,
       "lng": 9.6333
@@ -122,21 +132,6 @@
     },
     {
       "city": "Wetter (Ruhr)",
-      "lat": 51.3981,
-      "lng": 7.3642
-    },
-    {
-      "city": "Wetzlar",
-      "lat": 50.5667,
-      "lng": 8.5
-    },
-    {
-      "city": "Wettenberg",
-      "lat": 50.5833,
-      "lng": 8.6333
-    },
-    {
-      "city": "Wetter (Hessen)",
       "lat": 51.3981,
       "lng": 7.3642
     },

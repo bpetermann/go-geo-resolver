@@ -15,7 +15,7 @@ const (
 )
 
 var (
-	citiesDir = "cities"
+	citiesDir = "data"
 )
 
 type Cities struct {

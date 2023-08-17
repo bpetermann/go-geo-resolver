@@ -1,6 +1,16 @@
 {
   "cities": [
     {
+      "city": "Uetikon am See",
+      "lat": 47.2669,
+      "lng": 8.6772
+    },
+    {
+      "city": "Ulm",
+      "lat": 48.4,
+      "lng": 9.9833
+    },
+    {
       "city": "Urdorf",
       "lat": 47.3867,
       "lng": 8.4278
@@ -9,16 +19,6 @@
       "city": "Uster",
       "lat": 47.35,
       "lng": 8.7167
-    },
-    {
-      "city": "Ulm",
-      "lat": 48.4,
-      "lng": 9.9833
-    },
-    {
-      "city": "Uetikon am See",
-      "lat": 47.2669,
-      "lng": 8.6772
     },
     {
       "city": "Unterengstringen",
@@ -31,14 +31,14 @@
       "lng": 8.0417
     },
     {
-      "city": "Unterschleißheim",
-      "lat": 48.2833,
-      "lng": 11.5667
-    },
-    {
       "city": "Unterhaching",
       "lat": 48.0658,
       "lng": 11.61
+    },
+    {
+      "city": "Unterschleißheim",
+      "lat": 48.2833,
+      "lng": 11.5667
     }
   ]
 }

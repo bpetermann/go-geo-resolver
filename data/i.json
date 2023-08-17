@@ -1,14 +1,14 @@
 {
   "cities": [
     {
-      "city": "Innsbruck",
-      "lat": 47.2683,
-      "lng": 11.3933
-    },
-    {
       "city": "Ingolstadt",
       "lat": 48.7631,
       "lng": 11.425
+    },
+    {
+      "city": "Innsbruck",
+      "lat": 47.2683,
+      "lng": 11.3933
     },
     {
       "city": "Interlaken",

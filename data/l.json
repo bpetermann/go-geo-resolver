@@ -1,0 +1,84 @@
+{
+  "cities": [
+    {
+      "city": "La Tour-de-Peilz",
+      "lat": 46.45,
+      "lng": 6.8667
+    },
+    {
+      "city": "Lachen",
+      "lat": 47.1833,
+      "lng": 8.85
+    },
+    {
+      "city": "Lambach",
+      "lat": 48.0944,
+      "lng": 13.8775
+    },
+    {
+      "city": "Langendorf",
+      "lat": 47.2206,
+      "lng": 7.5144
+    },
+    {
+      "city": "Lauda-Königshofen",
+      "lat": 49.5675,
+      "lng": 9.7614
+    },
+    {
+      "city": "Lauterach",
+      "lat": 47.4833,
+      "lng": 9.7333
+    },
+    {
+      "city": "Leipzig",
+      "lat": 51.34,
+      "lng": 12.375
+    },
+    {
+      "city": "Leverkusen",
+      "lat": 51.0333,
+      "lng": 6.9833
+    },
+    {
+      "city": "Liestal",
+      "lat": 47.4667,
+      "lng": 7.7333
+    },
+    {
+      "city": "Linz",
+      "lat": 48.3058,
+      "lng": 14.2864
+    },
+    {
+      "city": "Lochau",
+      "lat": 47.53,
+      "lng": 9.7517
+    },
+    {
+      "city": "Loosdorf",
+      "lat": 48.2006,
+      "lng": 15.4011
+    },
+    {
+      "city": "Ludwigsburg",
+      "lat": 48.8975,
+      "lng": 9.1922
+    },
+    {
+      "city": "Ludwigshafen",
+      "lat": 49.4811,
+      "lng": 8.4353
+    },
+    {
+      "city": "Luzern",
+      "lat": 47.0514,
+      "lng": 8.3054
+    },
+    {
+      "city": "Lübeck",
+      "lat": 53.8697,
+      "lng": 10.6864
+    }
+  ]
+}
